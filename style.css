@@ -1,0 +1,25 @@
+.seguradora{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+    
+}
+#keyboard{
+    display: flex;
+    gap: 30px;
+
+}
+#keyboard2{
+display: flex;
+gap: 30px;
+} 
+
+
+
+
+
+
+
